@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SweetClub - FULL VIDEO</title>
+  <meta name="twitter:card" content="player" />
+  <meta name="twitter:title" content="Full Durasi Digrup " />
+  <meta name="twitter:description" content="Tonton video lengkap tanpa sensor di SweetClub 💋" />
+  <meta name="twitter:player" content="https://sweetclub.netlify.app/full.mp4" />
+  <meta name="twitter:player:width" content="1280" />
+  <meta name="twitter:player:height" content="720" />
+  <style>
+    body {
+      background: #000;
+      color: #fff;
